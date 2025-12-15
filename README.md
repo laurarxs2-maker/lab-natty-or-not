@@ -36,7 +36,7 @@ Curadoria estética para seleção do resultado final
 O processo começou com a definição de uma atmosfera “selvagem e realista”, priorizando elementos naturais como ondas fortes, areia preta e iluminação dramática. Ajustes no prompt foram feitos para alcançar maior realismo, profundidade e equilíbrio entre luz, cor e textura, garantindo uma composição visual harmônica e imersiva.
 
 🚀 Resultados
-[![Mar de Obsidiana – Extremamente Aesthetic](/assets/image/black-sand-beach.png)](https://github.com/laurarxs2-maker/lab-natty-or-not/)
+![Minha Imagem](assets/images/black-sand-beach.png)
 
 💭 Reflexão (Opcional)
 O maior desafio foi criar algo que parecesse verdadeiramente “natty”, sem aparência artificial. Isso exigiu cuidado na escolha das palavras do prompt e atenção aos detalhes naturais, provando que o diferencial da IA está menos na ferramenta e mais na intenção criativa de quem a utiliza.
