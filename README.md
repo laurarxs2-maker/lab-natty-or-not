@@ -20,32 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Mar de Obsidiana — Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+ 📒 Descrição
+Projeto visual focado em capturar uma paisagem selvagem e impactante: o contraste entre o mar em tons frios e a areia preta de origem vulcânica, transmitindo uma sensação de isolamento, força da natureza e estética cinematográfica.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🤖 Tecnologias Utilizadas
+IA Generativa de Imagens (DALL·E / OpenAI)
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt engineering para refinamento visual
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Curadoria estética para seleção do resultado final
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+🧐 Processo de Criação
+O processo começou com a definição de uma atmosfera “selvagem e realista”, priorizando elementos naturais como ondas fortes, areia preta e iluminação dramática. Ajustes no prompt foram feitos para alcançar maior realismo, profundidade e equilíbrio entre luz, cor e textura, garantindo uma composição visual harmônica e imersiva.
+
+🚀 Resultados
+<p align="center">
+  <a href="https://github.com/seu-usuario/seu-repositorio" target="_blank">
+    <img src="https://chatgpt.com/s/m_69405824add88191bb2e937da513d3f6" alt="Projeto Extremamente Aesthetic" width="800">
+  </a>
+</p>
+
+💭 Reflexão (Opcional)
+O maior desafio foi criar algo que parecesse verdadeiramente “natty”, sem aparência artificial. Isso exigiu cuidado na escolha das palavras do prompt e atenção aos detalhes naturais, provando que o diferencial da IA está menos na ferramenta e mais na intenção criativa de quem a utiliza.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
